@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<testrest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.crazyclass.testrest.DemoApplication",
+            "projectName": "testrest",
+            "args": ""
+        }
+    ]
+}
